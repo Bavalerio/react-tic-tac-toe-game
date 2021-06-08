@@ -4,5 +4,3 @@ import { Square } from './tic-tac-toe/square';
 import { Start } from './pages/start-game';
 
 export { Square, Finish, Start, Games };
-
-// export default components;
